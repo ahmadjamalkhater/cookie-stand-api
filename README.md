@@ -28,4 +28,4 @@ Description: Update the details of a specific cookie stand by its ID.
 
 * Endpoint: DELETE /cookiestand/{id}
 
-Description: Delete a cookie stand by its ID.
+Description: Delete a cookie stand by its  ID.

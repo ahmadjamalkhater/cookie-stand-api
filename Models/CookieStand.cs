@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace cookie_stand_api.Models
 {
-    public class CookieStand
+     public class CookieStand
     {
         public int Id { get; set; }
         public string Location { get; set; }
