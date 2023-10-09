@@ -11,7 +11,7 @@ using cookie_stand_api.Data;
 namespace cookie_stand_api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20231007201042_first")]
+    [Migration("20231009231508_first")]
     partial class first
     {
         /// <inheritdoc />

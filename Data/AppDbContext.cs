@@ -20,7 +20,7 @@ namespace cookie_stand_api.Data
             modelBuilder.Entity<CookieStand>().HasKey(c => c.Id);
         
 
-             //modelBuilder.Entity<HourlySales>().HasKey(
+            //modelBuilder.Entity<HourlySales>().HasKey(
             //    hourlySales => new { hourlySales.CookieStandId,hourlySales.Hour, hourlySales.SalesPerHour }
             //    );
 

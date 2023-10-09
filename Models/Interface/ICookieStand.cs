@@ -4,7 +4,7 @@
     {
         // CREATE
         Task<CookieStand> Create(CookieStand cookieStand);
- 
+
         // GET ALL
         Task<List<CookieStand>> GetAll();
 
